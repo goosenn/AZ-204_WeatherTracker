@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cHRkgVEckgvY4ILLkRP7qyBYXFsRhe+J3NhMfj+c/dS+X4hJdWFcFI80lN+aS2bgAsbvON8tigh/NJkx4jXjig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nathan\\source\\repos\\WeatherTracker\\WeatherTracker\\WeatherTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
