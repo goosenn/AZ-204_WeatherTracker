@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "cHRkgVEckgvY4ILLkRP7qyBYXFsRhe+J3NhMfj+c/dS+X4hJdWFcFI80lN+aS2bgAsbvON8tigh/NJkx4jXjig==",
+  "dgSpecHash": "MnrYrsQVAGsJpPGR+fZHnuZiglqYUGnFVtxliBEycNcLO2/WF/logBZhIbg99mgsOLTckUY0EvKQ86WVDs8SwA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nathan\\source\\repos\\WeatherTracker\\WeatherTracker\\WeatherTracker.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Nathan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+    "C:\\Users\\Nathan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
+    "C:\\Users\\Nathan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Nathan\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Nathan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nathan\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nathan\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }
